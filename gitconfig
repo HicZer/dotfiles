@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = zermane.hicham515@gmail.com
+	name = Hicham Zermane
